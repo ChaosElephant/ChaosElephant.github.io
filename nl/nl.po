@@ -42,7 +42,7 @@ msgstr ""
 
 msgctxt "vision-our-mission"
 msgid "Our mission is simple: to advance Bitcoin scaling while making a powerful statement on governance by executing a successful hard fork off the Bitcoin network."
-msgstr ""
+msgstr "Onze missie is eenvoudig"
 
 msgctxt "s-nakamoto-quote-phased-in-date"
 msgid ", Oct. 4 2010"
