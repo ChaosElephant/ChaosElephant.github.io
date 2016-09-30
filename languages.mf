@@ -1,0 +1,6 @@
+LANGUAGES MANIFEST 
+en
+zh
+fr
+nl
+de
