@@ -1,6 +1,5 @@
-LANGUAGES MANIFEST 
+LANGUAGES MANIFEST
 en
 zh
 fr
-nl
 de
